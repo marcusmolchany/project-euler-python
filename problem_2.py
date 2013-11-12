@@ -1,4 +1,4 @@
-# problem 1
+# problem 2
 
 def fibonacci(num):
   if (num <= 2):
